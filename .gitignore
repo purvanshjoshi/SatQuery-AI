@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+venv/
+.venv/
+env/
+
+# Node
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env.production
+
+# ML / Data
+*.h5
+*.pt
+*.pth
+*.onnx
+*.bin
+*.safetensors
+datasets/
+checkpoints/
+wandb/
+
+# Geospatial
+*.tif
+*.tiff
+*.geotiff
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Docker
+.docker/
+
+# Logs
+*.log
+logs/
